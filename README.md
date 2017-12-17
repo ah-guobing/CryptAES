@@ -3,6 +3,7 @@
 
 # 相关截图
 ![image](https://github.com/ah-guobing/CryptAES/blob/master/Resources/php-aes.png)
+![image](https://github.com/ah-guobing/CryptAES/blob/master/Resources/java-aes.png)
 
 # 问题反馈
 若在接入时有不明白的，欢迎联系QQ：46926125
