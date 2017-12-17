@@ -6,4 +6,4 @@
 ![image](https://github.com/ah-guobing/CryptAES/blob/master/Resources/java-aes.png)
 
 # 问题反馈
-若在接入时有不明白的，欢迎联系QQ：46926125
+若有问题请联系QQ：46926125
