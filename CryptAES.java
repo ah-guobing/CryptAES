@@ -5,6 +5,7 @@ import java.security.Key;
 import javax.crypto.Cipher;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.spec.SecretKeySpec;
+//依懒commons-codec-1.7
 import org.apache.commons.codec.binary.Base64;
 
 /**
