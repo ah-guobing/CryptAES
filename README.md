@@ -1,6 +1,7 @@
 # CryptAES
 不同语言涉及到加密算法这块，因为各自实现细节不同，所以经常出现同一种加密算法加密的，但是在不同语言下得到的结果不同。本项目是兼容不同开发语言实现AES加密后的结果一致。<br />
-》CryptAES.php  -- PHP版本实现<br />
+》CryptAES.php  -- PHP5.x版本实现<br />
+》CryptAES7.php  -- PHP7.x版本实现<br />
 》CryptAES.java -- Java版本实现<br />
 》CryptAES.cs -- C#版本实现<br />
 》CryptAESCore.cs -- .NetCore版本实现<br />
